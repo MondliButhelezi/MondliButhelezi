@@ -50,7 +50,7 @@ I am currenty working to broden my understanding of code towards my goal to beco
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on 
-    <a href="https://twitter.com/groverception" target=”_blank”>
-      <img src="https://twitter.com/thabigdreamer" style="padding-top:10px"  width="20px"></a>
+    <a href="https://twitter.com/thabigdreamer" target=”_blank”>
+      <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
