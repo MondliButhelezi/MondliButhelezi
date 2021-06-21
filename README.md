@@ -1,16 +1,57 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+</p>
 
-<!--
-**MondliButhelezi/MondliButhelezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://still-brushlands-82734.herokuapp.com/countercheck)
+### 👋 Hey Guys I'm a Software Engineer
+I am currenty working to broden my understanding of code towards my goal to become a Full Stack Developer.
 
-Here are some ideas to get you started:
+### 👨‍💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="14.28%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Nest JS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Vue JS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+        <td width="14.28%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        </td>
+    </tr>
+      </tbody>
+</table>
+
+
+<p align="center">
+  <samp>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on 
+    <a href="https://twitter.com/groverception" target=”_blank”>
+      <img src="https://twitter.com/thabigdreamer" style="padding-top:10px"  width="20px"></a>
+  </samp>
+</p>
