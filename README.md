@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
   <img src="https://media.giphy.com/media/iSQvCHnEuN0eIQwJh7/giphy.gif" width="100px">
 </p>
 
