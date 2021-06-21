@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
 
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
 ### 👋 Hey Guys I'm a Software Engineer
 I am currenty working to broden my understanding of code towards my goal to become a Full Stack Developer.
 
