@@ -6,6 +6,9 @@
 ### 👋 Hey Guys I'm a Software Engineer
 I am currenty working to broden my understanding of code towards my goal to become a Full Stack Developer.
 
+![](https://komarev.com/ghpvc/?username=MondliButhelezi)
+
+
 ### 👨‍💻 Tech Stack
 
 <table>
