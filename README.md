@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
 
-### 👋 Hey Guys I'm a Software Engineer
+### 👋 Hey Guys I'm a GIS Software Developer
 I am currenty working to broden my understanding of code towards my goal to become a Full Stack Developer.
 
 ![](https://komarev.com/ghpvc/?username=MondliButhelezi)
